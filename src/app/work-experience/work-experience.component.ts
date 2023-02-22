@@ -20,7 +20,6 @@ ngOnInit(): void {
     empresa: "Waves",
     logros : [
       { descripcion: "Dron autonomo" },
-      { descipcion: "Cluster GPU" },
     ]
   };
 
@@ -31,7 +30,6 @@ ngOnInit(): void {
     empresa: "Kubeet",
     logros : [
       { descripcion: "Cluster hadoop" },
-      { descipcion: "Red Neuronal GAN" },
     ]
   };
 
