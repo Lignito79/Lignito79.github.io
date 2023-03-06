@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+.headerTable {
+    background-color: #217cbe;
+    color: rgb(242, 242, 242);
+    padding-left: 55px;
+    padding-right: 55px;
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bodyTable {
+    color: rgb(58, 60, 69);
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+}

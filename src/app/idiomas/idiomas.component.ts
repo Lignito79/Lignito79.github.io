@@ -19,7 +19,7 @@ ngOnInit(): void {
   };
 
   let idioma2 = {
-    nombreIdioma: "Español",
+    nombreIdioma: "Inglés",
     nivel: "Alto"
   };
 
